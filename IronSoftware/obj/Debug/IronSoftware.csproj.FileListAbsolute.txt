@@ -1,8 +1,0 @@
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\bin\Debug\IronSoftware.exe.config
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\bin\Debug\IronSoftware.exe
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\bin\Debug\IronSoftware.pdb
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\obj\Debug\IronSoftware.csproj.AssemblyReference.cache
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\obj\Debug\IronSoftware.csproj.CoreCompileInputs.cache
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\obj\Debug\IronSoftware.exe
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\obj\Debug\IronSoftware.pdb
-C:\Users\nicol\OneDrive\Desktop\IronSoftware\obj\Debug\IronSoftware.exe.config
